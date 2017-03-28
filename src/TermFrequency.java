@@ -23,7 +23,7 @@ public class TermFrequency {
 	}
 	
 	/**
-	 * This method calculate term frequencies for a word/list of words
+	 * This method calculates term frequencies(TF) for a word/list of words
 	 * @param pathToFolder Path to the folder containing all input files. 
 	 * @param input Word/List of words whose term frequency is to be calculated.
 	 */
